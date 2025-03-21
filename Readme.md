@@ -1,7 +1,7 @@
-### RQ3  Artifact
+
 [PolicySym](https://github.com/zqp542375/policySym) is a guided symbolic execution framework for security analysis of Solidity smart contracts. 
 
-This repository is for reproducing the experiments.
+This repository is for **reproducing the experiments**.
 
 
 ### Structure
